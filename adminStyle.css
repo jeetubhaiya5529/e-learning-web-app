@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+
+.navbar-brand{
+    font-family: 'Rubik', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: #ffff;
+}
+
+/* Plus Button */
+.box{
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    margin-bottom: 30px;
+}
